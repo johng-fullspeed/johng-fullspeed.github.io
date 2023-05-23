@@ -1,0 +1,9 @@
+{
+  "BUILD_APP_NAME": "Akaso",
+  "BUILD_APP_ID": "jp.co.tristone.akaso.dev",
+  "BUILD_ANDROID_VERSION_NAME": "1.0.0",
+  "BUILD_ANDROID_VERSION_CODE": 10000,
+  "BUILD_IOS_VERSION_NAME": "1.0.0",
+  "BUILD_IOS_VERSION_CODE": 10000,
+  "BUILD_FIELD_HOME_URL": "https://www.google.com/"
+}
